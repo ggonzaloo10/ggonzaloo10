@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm an Industrial Designer who would like to put into practice my new knowledge about Web & UX design and be part of a multicultural team in order to develop myself professional and personally. 
+#### Hi there 👋 I'm an Industrial/Graphic/Web designer who would like to put into practice my new knowledge about Web & UX design and be part of a multicultural team in order to develop myself professional and personally. 
 
 
 
