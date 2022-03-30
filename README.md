@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: ✏️Design, 🎨Art, 🎮Videogames, 🔭Astronomy, 🏋️‍♂️Crossfit, 🚲Mtb, 🎾Padel...
 - 📫 How to reach me: :blue_book:[Linkedin](https://www.linkedin.com/in/gonzalo-soriano-franc%C3%A9s-522392130/),  :bird: [Twitter](https://twitter.com/g0nz4l0_) 📧 [E-mail](mailto:gonzalosofran@hotmail.com)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ggonzaloo10&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ggonzaloo10&theme=blux&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 <!-- - - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
