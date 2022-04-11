@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - :wrench: I’m currently working on my personal website.
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript.
-- ⚡ Hobbies: ✏️Design, 🎨Art, 🎮Videogames, 🔭Astronomy, 🏋️‍♂️Crossfit, 🚲Mtb, 🎾Padel...
+- ⚡ Hobbies: ✏️Design, 🎨Art, 🏋️‍♂️Crossfit, 🚲Mtb, 🎾Padel, 🔭Astronomy, 🎮Videogames,...
 - 📫 How to reach me: :blue_book:[Linkedin](https://www.linkedin.com/in/gonzalo-soriano-franc%C3%A9s-522392130/),  :bird: [Twitter](https://twitter.com/g0nz4l0_) 📧 [E-mail](mailto:gonzalosofran@hotmail.com)
 
 
